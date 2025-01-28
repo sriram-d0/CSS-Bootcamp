@@ -1,0 +1,125 @@
+.box{
+    width:500px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin:auto;
+    border-radius: 7px;
+    
+}
+.box-1{
+    padding: 50px;
+    background-color: rgb(42, 249, 159);    
+    font-weight:500;
+}
+.box-1 h1{
+    font-size: 48px;
+}
+.box-1 button{
+    padding: 10px 40px;
+    border-radius: 10px;
+    margin-top: 15px;
+    font-weight: bold;
+    border: 0;
+    font-size: 18px;
+    border-radius: 20px;
+}
+.box-2{
+    padding: 0px 50px;
+    margin-top: 30px;
+    border: 1px solid lightgray;
+    padding-bottom: 20px;
+}
+.box-2 h1{
+    font-weight: normal;
+}
+.box-2 p{
+    font-size: larger;
+    color: rgb(180, 177, 170);
+}
+
+.box-2 img{
+    padding: 40px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.minus{
+    margin-left: -20px;
+}
+.line {
+    border-top: 2px solid lightgray;
+    margin-left: -50px;
+    margin-right: -50px;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+}
+.box-2 a{
+    text-decoration: none;
+    font-weight: 500;
+    color: rgb(0, 128, 255);
+    font-size: 22px; 
+}
+.box-3{
+    margin-top: 30px;
+    padding-right: 100px;
+    border: 1px solid lightgray;
+}
+.box-3 img{
+    width: 120%;
+    border-radius: 7px;
+    height: 500px;
+}
+.box-3 p{
+    color: rgb(154, 148, 148);
+    padding-left: 20px;
+}
+.box-3 h1{
+    padding-left: 20px;
+    font-weight: 500;
+}
+.box-3 button{
+    margin-left: 20px;
+    padding: 20px 40px;
+    margin: 30px;
+    margin-bottom: 40px;
+    color: rgb(0, 128, 255);
+    font-weight: bold;
+    font-size: 25px;
+    background-color: white;
+    border: 0;
+    border: 1px solid lightgray;
+    border-radius: 6px;
+}
+.box-4{
+    margin-top: 30px;
+    text-align: center;
+    font-weight: 500;
+}
+.box-4 img{    
+    height:auto ;
+    width: 30%;
+}
+.box-4 input{
+    padding: 10px;    
+    border: 1px solid lightgray; 
+    border-radius: 7px;
+    width:50%;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+.box-4 button{
+    padding: 15px 40px;
+    border-radius: 23px;
+    background-color: black;
+    color: white;
+    margin-top: 15px;
+    font-weight: bold;
+    border: 0;
+    margin-bottom: 15px;
+}
+.box-4 span{
+    color: rgb(156, 147, 147);
+}
+.box-4 a{
+    color: black;
+}
